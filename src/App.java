@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class App extends Application{
 
     public static void main(String[] args) throws Exception {
-        String text = "test pull request";
+        String text = "test pull request from phuwadon Dev";
         launch(args);
     }
 
